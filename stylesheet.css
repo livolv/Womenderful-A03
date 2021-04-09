@@ -364,7 +364,11 @@ ul {
     opacity: 1;
   }
 }
-
+.buy-btn{
+  position: relative;
+  top:-15px;
+  left:-10px;
+}
 .box .img-box .overlay .buy-btn,
 .box2 .img-box .overlay .buy-btn {
   width: 100px;
@@ -449,7 +453,7 @@ ul {
 
 .dian1 .box-best {
   width: 500px;
-  height: 200px;
+  height: 250px;
   padding: 20px;
   background-color: #fff;
   position: absolute;
