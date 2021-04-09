@@ -16,7 +16,7 @@ overflow-x: hidden;
 }
 .header{
   align-items: center;
-  background-image: url(images/OIP.jpg);
+  background-image: url(OIP.jpg);
   background-size: cover;
 }
 
@@ -147,7 +147,7 @@ text-decoration: none;
 
 .top-wrapper {
   padding: 180px 0 100px 50px;
-  background-image: url(images/1190653.jpg);
+  background-image: url(1190653.jpg);
   background-size :cover;
   color: #ae8fb6;
   text-align: left;
